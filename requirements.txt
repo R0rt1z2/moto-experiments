@@ -1,2 +1,3 @@
 pyserial
 pandas
+rich
